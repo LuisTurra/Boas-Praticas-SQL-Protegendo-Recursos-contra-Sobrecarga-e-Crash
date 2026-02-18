@@ -1,4 +1,5 @@
-# 🚕 Boas Práticas SQL: Protegendo Recursos contra Sobrecarga e Crash
+# 🚕 Otimização de Queries SQL: Performance e Consumo de Recursos
+
 
 Projeto de portfólio que demonstra como queries SQL **seguras** (LIMIT, projeção, filtros precoces) previnem consumo excessivo de recursos e possíveis crashes, enquanto queries **agressivas** podem travar o processo.
 
