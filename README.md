@@ -46,7 +46,7 @@ Essas técnicas são especialmente eficazes em engines column-oriented como o Du
 - Queries seguras: menor tempo, muito menos memória, zero risco de crash
 - Queries agressivas: picos altos de memória e risco real de OOM
 
-### live [streamlit](https://luisturra-boas-praticas-sql-protegendo-rec-streamlit-app-5ohvtd.streamlit.app/)
+### Dashboard Live: [streamlit](https://luisturra-boas-praticas-sql-protegendo-rec-streamlit-app-5ohvtd.streamlit.app/)
 
 ## Resultados e Conclusões
 
